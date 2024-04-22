@@ -1,0 +1,120 @@
+#logo{
+    width: 10%;
+}
+
+
+/* .nav{
+    padding: 15px;
+    background-color: #FFFDD0;
+    box-shadow: 10px 5px 20px rgb(0 0 0 / 100%);
+    vertical-align:  middle;
+    height: auto;
+    justify-self: center;
+    align-items: center;
+    align-self: center;
+} */
+
+#greet{
+    size: 24px;
+}
+
+/* #top-links{
+    vertical-align: middle;
+    justify-content: center;
+    align-content: center;
+}
+#btm-links{
+    vertical-align: middle;
+    justify-self: center;
+    align-content: center;
+} */
+
+#index{
+    position: absolute;
+    /* top: 25%; */
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    background-color: wheat;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+#header{
+    width: 100%;
+    position: relative;
+
+}
+
+#intro{
+    top:25%
+}
+
+#me{
+    width: 25%;}
+
+#header{
+    color: #FFFDD0;
+}
+
+#introduction_{
+    color: red;
+}
+
+#name-big{
+    color: blue;
+}
+
+#brief-intro{
+    color: blueviolet;
+}
+
+#hobby{
+ color: orangered;
+}
+
+body{
+    background-color: wheat;
+}
+
+
+#name{
+    background-color: cadetblue;
+}
+
+#email{
+    background-color: chocolate;
+}
+
+#subject{
+    background-color: crimson;
+}
+
+#message{
+    background-color: darkgreen;
+}
+
+#name-text{
+    color:palevioletred;
+}
+
+#email-text{
+    color: green;
+}
+
+#subject-text{
+    color: deeppink;
+}
+
+#message-text{
+    color: dodgerblue;
+}
+
+.nav{
+    background-color:paleturquoise;
+    color: wheat;
+}
